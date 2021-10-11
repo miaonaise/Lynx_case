@@ -2,9 +2,9 @@
 Assignment for Junior quantative analyst position at Lynx 
 
 ## How to run the code
-I wrote the code in Google Colab, so the fail proof way is to download the repisitory and upload it into your local Google Drive. Don't forget to update the current working directory in Section 0: Intial stuff in that case. 
+The code is written in Google Colab, so the fail proof way is to download the repository and upload it into your local Google Drive. Don't forget to update the current working directory in Section 0: Intial stuff in that case. 
 
-Otherwise, I recommend running it in jupyter notebook. Remove the setting up Google Drive part, and install the packages that you need. 
+Otherwise, jupyter notebook is recommended for running the code. Remove the setting up Google Drive part, and install the packages that you need. 
 
 Obs! Don't run the whole thing at once. It will guarantee fail somewhere because some cells are incomplete and unused. 
 
