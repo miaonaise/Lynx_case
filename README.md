@@ -6,6 +6,8 @@ I wrote the code in Google Colab, so the fail proof way is to download the repis
 
 Otherwise, I recommend running it in jupyter notebook. Remove the setting up Google Drive part, and install the packages that you need. 
 
+Obs! Don't run the whole thing at once. It will guarantee fail somewhere because some cells are incomplete and unused. 
+
 ## How to read the code
 There are three notebooks:
 - Spiff.ipynb: the main notebook divided into 10 sections
