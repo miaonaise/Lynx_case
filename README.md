@@ -1,4 +1,4 @@
-# Lynx_case
+# Lynx Case
 Assignment for Junior quantative analyst position at Lynx 
 
 ## How to run the code
