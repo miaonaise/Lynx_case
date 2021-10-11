@@ -26,6 +26,3 @@ There are three notebooks:
 - plotting.ipynb: module with supporting plotting functions
 
 P.S. Run section 0 and 1.1 for every other section to work, the rest are arbitrary. 
-
-## Updates
-To get the most up to date version of the code, you can directly access the code with this link:
