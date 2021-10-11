@@ -6,7 +6,7 @@ The code is written in Google Colab, so the fail proof way is to download the re
 
 Otherwise, jupyter notebook is recommended for running the code. Remove the setting up Google Drive part, and install the packages that you need. 
 
-Obs! Don't run the whole thing at once. It will guarantee fail somewhere because some cells are incomplete and unused. 
+Obs! Don't run the whole thing at once. It will guarantee fail somewhere because some cells are abandoned. 
 
 ## How to read the code
 There are three notebooks:
