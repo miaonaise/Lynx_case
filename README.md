@@ -12,3 +12,6 @@ There are three notebooks:
   - section 0:
 - functions.ipynb: module with supporting analysis functions
 - plotting.ipynb: module with supporting plotting functions
+
+## Updates
+To get the most up to date version of the code, you can directly access the code with this link:
